@@ -1,0 +1,22 @@
+{
+  "name": "zelda-timeline",
+  "version": "1.0.0",
+  "description": "This is [Triforce Johnson's Zelda timeline](https://www.youtube.com/watch?v=HPnvAt9bvAs) in an infographic/web based format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnyama/zelda-timeline.git"
+  },
+  "author": "shawnyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnyama/zelda-timeline/issues"
+  },
+  "homepage": "https://github.com/shawnyama/zelda-timeline#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

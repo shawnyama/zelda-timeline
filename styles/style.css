@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'triforcetriforce';
+  src: url('fonts/triforce-webfont.woff2') format('woff2'),
+       url('fonts/triforce-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'hylia_serif_betaregular';
+  src: url('fonts/hyliaserifbeta-regular-webfont.woff2') format('woff2'),
+       url('fonts/hyliaserifbeta-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-weight: lighter;
+}
+
+html {
+  background: #014421;
+  font-family: 'hylia_serif_betaregular', sans-serif;
+  color: white;
+}
+
+header, footer {
+  text-align: center;
+  font-size: 2rem;
+  background: #222222;
+  padding: 20px;
+}
+
+footer {
+  font-size: 1.25rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.25rem;
+}
+
+body {
+  padding: 0px;
+}
+
+header h1 {
+  font-size: 2rem;
+  text-align: left;
+  padding-left: 6rem;
+  padding-top: 1rem;
+}
+
+h3, h4 {
+  font-weight: lighter;
+}
+
+.logo {
+  font-family: 'hylia_serif_betaregular', sans-serif;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  text-decoration: none;
+  list-style: none;
+}
+
+#timeline {
+  min-width: 45%;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+#timeline div ul {
+  list-style-type: none;
+  
+}
+  
+#timeline div ul > li {
+  display: inline-block;
+}
+
+#timeline div ul li #diverge {
+  border-bottom: 1.5rem solid #90d4ed;
+}
+
+#timeline div ul li div img {
+  width: 6rem;
+  padding-left: 1rem;
+}
+
+#timeline div ul li:hover {
+  background: #00853E;
+  cursor: pointer;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+}
+
+.systems {
+  margin-top: 2rem;
+}
+
+nav, .systems {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#prime {
+  border-left: 1.5rem solid #ff6961;
+}
+
+#diverged {
+  border-left: 1.5rem solid #90d4ed;
+}
+
+#converged {
+  border-left: 1.5rem solid #b19cd9;
+}
+
+a:visited {
+  color: white;
+}
