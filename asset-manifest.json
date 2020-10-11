@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zelda-timeline/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zelda-timeline/static/js/main.b639aef8.chunk.js",
+    "main.js.map": "/zelda-timeline/static/js/main.b639aef8.chunk.js.map",
+    "runtime-main.js": "/zelda-timeline/static/js/runtime-main.c4ed408d.js",
+    "runtime-main.js.map": "/zelda-timeline/static/js/runtime-main.c4ed408d.js.map",
+    "static/js/2.5b46e6d1.chunk.js": "/zelda-timeline/static/js/2.5b46e6d1.chunk.js",
+    "static/js/2.5b46e6d1.chunk.js.map": "/zelda-timeline/static/js/2.5b46e6d1.chunk.js.map",
+    "index.html": "/zelda-timeline/index.html",
+    "precache-manifest.d33a541f1224246f6ce80b06b6f8745c.js": "/zelda-timeline/precache-manifest.d33a541f1224246f6ce80b06b6f8745c.js",
+    "service-worker.js": "/zelda-timeline/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zelda-timeline/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b46e6d1.chunk.js.LICENSE.txt": "/zelda-timeline/static/js/2.5b46e6d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4ed408d.js",
+    "static/js/2.5b46e6d1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b639aef8.chunk.js"
+  ]
+}
