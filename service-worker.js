@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zelda-timeline/precache-manifest.034efbcba2e50f353f9b1987552d029d.js"
+  "/zelda-timeline/precache-manifest.5d7d0e26158d771274720c3446cad9c6.js"
 );
 
 self.addEventListener('message', (event) => {
