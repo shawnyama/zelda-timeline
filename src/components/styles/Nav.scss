@@ -1,0 +1,22 @@
+
+//.nav-links, .systems {
+//   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+//}
+
+Nav {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1rem;
+
+    width: 35%;
+    text-decoration: none;
+    list-style: none;
+
+    h1 {
+        font-size: 1.5rem;
+        text-align: left;
+    }
+
+}
